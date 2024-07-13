@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on React Js & React Native<br>👯 I’m looking to collaborate on open source <br>🤝 I’m looking for help with Native Modules (iOS & Android)<br>🌱 I’m currently learning optimisation strategies in React Native, focusing on reducing app size, improving rendering speed, and implementing code-splitting techniques for better user experience.<br>💬 Ask me about how to make pixel perfect UI<br>⚡ Fun fact: I can make anyone laugh.
+🔭 I’m currently working on React Js & React Native<br>👯 I’m looking to collaborate on open source <br>🤝 I’m looking for help with Native Modules (iOS & Android)<br>🌱 I’m currently learning optimisation strategies in React Native, focusing on reducing app size, improving rendering speed, and implementing code-splitting techniques for better user experience.<br>💬 Ask me about how to make pixel perfect UI<br>⚡ Fun fact: I can make anyone laugh
 
 
 ## 🌐 Socials:
